@@ -23,9 +23,7 @@ project-9-robert-eva-emma created by GitHub Classroom
 
 ![Average Runtime](https://github.com/daemon-deacons/project-9-robert-eva-emma/blob/master/Avg_p2.png)
 ![Standard deviation of Runtime](https://github.com/daemon-deacons/project-9-robert-eva-emma/blob/master/SD_p2.png)
-![Average Runtime boxplot](https://github.com/daemon-deacons/project-9-robert-eva-emma/blob/master/Avg_p2%20(2).png)
-![Standard deviation of Runtime boxplot](https://github.com/daemon-deacons/project-9-robert-eva-emma/blob/master/SD.png)
-
+![Runtime boxplot](https://github.com/daemon-deacons/project-9-robert-eva-emma/blob/master/boxplot.png)
 
  ##2.a.Why do you think there is a difference in the execution times?
  
