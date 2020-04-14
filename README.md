@@ -28,12 +28,13 @@ project-9-robert-eva-emma created by GitHub Classroom
  ##2.a.Why do you think there is a difference in the execution times?
  
 In the first variant,we only use TCP protocol for every process.
-In the second variant, only processes on
-different nodes need to use TCP and can use shared memory for their
-intercommunication, which is much faster. Finally, the TCP overhead
-between the nodes is reduced in the third variant by using the usNIC
-interconnect. These improvements decrease both execution time as well as
-variability in execution time.
+In the second variant, it allows the MPI processes on same nodes
+to use shared memory for their intercommunication, and MPI processes on 
+different nodes to use TCP. Comparatively, the second variant is faster 
+than the first one.
+Finally, the TCP overhead between the nodes is reduced in the third variant 
+by using the USNIC interconnect. It makes the third variable fastest among the
+three variables.
     
 
 ##3.Show the plot of average execution times and standard deviation from part 
