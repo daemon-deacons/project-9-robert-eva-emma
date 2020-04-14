@@ -21,8 +21,10 @@ project-9-robert-eva-emma created by GitHub Classroom
 
 ##2.Show the plot of average execution times and standard deviation from part 
 
-![Average Runtime]()
-![Standard deviation of Runtime]()
+![Average Runtime](https://github.com/daemon-deacons/project-9-robert-eva-emma/blob/master/Avg_p2.png)
+![Average Runtime boxplot](https://github.com/daemon-deacons/project-9-robert-eva-emma/blob/master/Avg_p2%20(2).png)
+![Standard deviation of Runtime](https://github.com/daemon-deacons/project-9-robert-eva-emma/blob/master/SD.png)
+!![Standard deviation of Runtime boxplot](https://github.com/daemon-deacons/project-9-robert-eva-emma/blob/master/SD.png)
 
 
  ##2.a.Why do you think there is a difference in the execution times?
