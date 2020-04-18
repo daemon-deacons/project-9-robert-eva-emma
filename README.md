@@ -40,4 +40,136 @@ three variables.
 ##3.Show the plot of average execution times and standard deviation from part 
 ![Runtime boxplot](https://github.com/daemon-deacons/project-9-robert-eva-emma/blob/master/boxplotp3.png)
 
-    ##3.a.Why do you think there is a difference in the execution times?
+##3.a.Why do you think there is a difference in the execution times?
+
+The shared memory and usNIC activation barely changed runtime.However, 
+Standard deviation in these executation are lower and the runtime has 
+become more stable as we increase the shared memory and enabled usNIC.
+
+
+    
+ Output:
+ 
+    Process 0 sending 0.170828 to 1, tag 201 (4 processes in ring)
+    Process 0 sent to 1
+    Process 0 exiting
+    Process 1 exiting
+    Process 2 exiting
+    Process 3 exiting
+    The value is 816921454521178229047296.000000
+    Total of 287 seconds elapsed for process
+    Process 0 sending 0.170828 to 1, tag 201 (4 processes in ring)
+    Process 0 sent to 1
+    Process 0 exiting
+    Process 1 exiting
+    Process 2 exiting
+    Process 3 exiting
+    The value is 816921454521178229047296.000000
+    Total of 290 seconds elapsed for process
+    Process 0 sending 0.170828 to 1, tag 201 (4 processes in ring)
+    Process 0 sent to 1
+    Process 0 exiting
+    Process 1 exiting
+    Process 2 exiting
+    Process 3 exiting
+    The value is 816921454521178229047296.000000
+    Total of 287 seconds elapsed for process
+    Process 0 sending 0.170828 to 1, tag 201 (4 processes in ring)
+    Process 0 sent to 1
+    Process 0 exiting
+    Process 1 exiting
+    Process 2 exiting
+    Process 3 exiting
+    The value is 816921454521178229047296.000000
+    Total of 289 seconds elapsed for process
+    Process 0 sending 0.170828 to 1, tag 201 (4 processes in ring)
+    Process 0 sent to 1
+    Process 0 exiting
+    Process 1 exiting
+    Process 2 exiting
+    Process 3 exiting
+    The value is 816921454521178229047296.000000
+    Total of 290 seconds elapsed for process
+    First command done
+    Process 0 sending 0.170828 to 1, tag 201 (4 processes in ring)
+    Process 0 sent to 1
+    Process 0 exiting
+    Process 1 exiting
+    Process 2 exiting
+    Process 3 exiting
+    The value is 816921454521178229047296.000000
+    Total of 291 seconds elapsed for process
+    Process 0 sending 0.170828 to 1, tag 201 (4 processes in ring)
+    Process 0 sent to 1
+    Process 0 exiting
+    Process 1 exiting
+    Process 2 exiting
+    Process 3 exiting
+    The value is 816921454521178229047296.000000
+    Total of 292 seconds elapsed for process
+    Process 0 sending 0.170828 to 1, tag 201 (4 processes in ring)
+    Process 0 sent to 1
+    Process 0 exiting
+    Process 1 exiting
+    Process 2 exiting
+    Process 3 exiting
+    The value is 816921454521178229047296.000000
+    Total of 292 seconds elapsed for process
+    Process 0 sending 0.170828 to 1, tag 201 (4 processes in ring)
+    Process 0 sent to 1
+    Process 0 exiting
+    Process 1 exiting
+    Process 2 exiting
+    Process 3 exiting
+    The value is 816921454521178229047296.000000
+    Total of 290 seconds elapsed for process
+    Process 0 sending 0.170828 to 1, tag 201 (4 processes in ring)
+    Process 0 sent to 1
+    Process 0 exiting
+    Process 1 exiting
+    Process 2 exiting
+    Process 3 exiting
+    The value is 816921454521178229047296.000000
+    Total of 291 seconds elapsed for process
+    Second command done
+    Process 0 sending 0.170828 to 1, tag 201 (4 processes in ring)
+    Process 0 sent to 1
+    Process 0 exiting
+    Process 1 exiting
+    Process 2 exiting
+    Process 3 exiting
+    The value is 816921454521178229047296.000000
+    Total of 303 seconds elapsed for process
+    Process 0 sending 0.170828 to 1, tag 201 (4 processes in ring)
+    Process 0 sent to 1
+    Process 0 exiting
+    Process 1 exiting
+    Process 2 exiting
+    Process 3 exiting
+    The value is 816921454521178229047296.000000
+    Total of 332 seconds elapsed for process
+    Process 0 sending 0.170828 to 1, tag 201 (4 processes in ring)
+    Process 0 sent to 1
+    Process 0 exiting
+    Process 1 exiting
+    Process 2 exiting
+    Process 3 exiting
+    The value is 816921454521178229047296.000000
+    Total of 301 seconds elapsed for process
+    Process 0 sending 0.170828 to 1, tag 201 (4 processes in ring)
+    Process 0 sent to 1
+    Process 0 exiting
+    Process 1 exiting
+    Process 2 exiting
+    Process 3 exiting
+    The value is 816921454521178229047296.000000
+    Total of 299 seconds elapsed for process
+    Process 0 sending 0.170828 to 1, tag 201 (4 processes in ring)
+    Process 0 sent to 1
+    Process 0 exiting
+    Process 1 exiting
+    Process 2 exiting
+    Process 3 exiting
+    The value is 816921454521178229047296.000000
+    Total of 300 seconds elapsed for process
+    Third command done
