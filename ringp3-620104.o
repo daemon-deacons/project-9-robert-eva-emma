@@ -1,0 +1,169 @@
+#########################BEGIN-PROLOG#########################
+JobId             = 620104
+JobName           = ring_p3
+UserId            = langrc18(20291)
+GroupId           = langrc18(20291)
+MCS_label         = N/A
+Priority          = 158
+Nice              = 0
+Account           = classes
+QOS               = normal
+Requeue           = 1
+Restarts          = 0
+BatchFlag         = 1
+Reboot            = 0
+ExitCode          = 0:0
+RunTime           = 00:00:02
+TimeLimit         = 7-00:00:00
+TimeMin           = N/A
+SubmitTime        = 2020-04-14T18:31:26
+EligibleTime      = 2020-04-14T18:31:26
+AccrueTime        = 2020-04-14T18:31:26
+StartTime         = 2020-04-14T21:41:35
+EndTime           = 2020-04-21T21:41:37
+Deadline          = N/A
+Partition         = medium
+AllocNode:Sid     = gemini:17800
+NodeList          = a1a-u3-c4-b[5-6]
+BatchHost         = a1a-u3-c4-b5
+NumNodes          = 2
+NumCPUs           = 4
+NumTasks          = 4
+CPUs/Task         = 1
+ReqB:S:C:T        = 0:0:*:*
+TRES=cpu=4,mem=40G,node=2,billing= cpu=4,mem=40G,node=2,billing=4
+Socks/Node        = *
+NtasksPerN:B:S:C  = 2:0:*:*
+CoreSpec          = *
+MinCPUsNode       = 2
+MinMemoryNode     = 20G
+MinTmpDiskNode    = 0
+Command           = /deac/classes/csc391/wus217/project-9/ring_p3.slurm
+WorkDir           = /deac/classes/csc391/wus217/project-9
+StdErr            = /deac/classes/csc391/wus217/project-9/ringp3-620104.e
+StdOut            = /deac/classes/csc391/wus217/project-9/ringp3-620104.o
+Power             = 
+###########################END-PROLOG#########################
+Process 0 sending 0.170828 to 1, tag 201 (4 processes in ring)
+Process 0 sent to 1
+Process 0 exiting
+Process 1 exiting
+Process 2 exiting
+Process 3 exiting
+The value is 816921454521178229047296.000000
+Total of 287 seconds elapsed for process
+Process 0 sending 0.170828 to 1, tag 201 (4 processes in ring)
+Process 0 sent to 1
+Process 0 exiting
+Process 1 exiting
+Process 2 exiting
+Process 3 exiting
+The value is 816921454521178229047296.000000
+Total of 290 seconds elapsed for process
+Process 0 sending 0.170828 to 1, tag 201 (4 processes in ring)
+Process 0 sent to 1
+Process 0 exiting
+Process 1 exiting
+Process 2 exiting
+Process 3 exiting
+The value is 816921454521178229047296.000000
+Total of 287 seconds elapsed for process
+Process 0 sending 0.170828 to 1, tag 201 (4 processes in ring)
+Process 0 sent to 1
+Process 0 exiting
+Process 1 exiting
+Process 2 exiting
+Process 3 exiting
+The value is 816921454521178229047296.000000
+Total of 289 seconds elapsed for process
+Process 0 sending 0.170828 to 1, tag 201 (4 processes in ring)
+Process 0 sent to 1
+Process 0 exiting
+Process 1 exiting
+Process 2 exiting
+Process 3 exiting
+The value is 816921454521178229047296.000000
+Total of 290 seconds elapsed for process
+First command done
+Process 0 sending 0.170828 to 1, tag 201 (4 processes in ring)
+Process 0 sent to 1
+Process 0 exiting
+Process 1 exiting
+Process 2 exiting
+Process 3 exiting
+The value is 816921454521178229047296.000000
+Total of 291 seconds elapsed for process
+Process 0 sending 0.170828 to 1, tag 201 (4 processes in ring)
+Process 0 sent to 1
+Process 0 exiting
+Process 1 exiting
+Process 2 exiting
+Process 3 exiting
+The value is 816921454521178229047296.000000
+Total of 292 seconds elapsed for process
+Process 0 sending 0.170828 to 1, tag 201 (4 processes in ring)
+Process 0 sent to 1
+Process 0 exiting
+Process 1 exiting
+Process 2 exiting
+Process 3 exiting
+The value is 816921454521178229047296.000000
+Total of 292 seconds elapsed for process
+Process 0 sending 0.170828 to 1, tag 201 (4 processes in ring)
+Process 0 sent to 1
+Process 0 exiting
+Process 1 exiting
+Process 2 exiting
+Process 3 exiting
+The value is 816921454521178229047296.000000
+Total of 290 seconds elapsed for process
+Process 0 sending 0.170828 to 1, tag 201 (4 processes in ring)
+Process 0 sent to 1
+Process 0 exiting
+Process 1 exiting
+Process 2 exiting
+Process 3 exiting
+The value is 816921454521178229047296.000000
+Total of 291 seconds elapsed for process
+Second command done
+Process 0 sending 0.170828 to 1, tag 201 (4 processes in ring)
+Process 0 sent to 1
+Process 0 exiting
+Process 1 exiting
+Process 2 exiting
+Process 3 exiting
+The value is 816921454521178229047296.000000
+Total of 303 seconds elapsed for process
+Process 0 sending 0.170828 to 1, tag 201 (4 processes in ring)
+Process 0 sent to 1
+Process 0 exiting
+Process 1 exiting
+Process 2 exiting
+Process 3 exiting
+The value is 816921454521178229047296.000000
+Total of 332 seconds elapsed for process
+Process 0 sending 0.170828 to 1, tag 201 (4 processes in ring)
+Process 0 sent to 1
+Process 0 exiting
+Process 1 exiting
+Process 2 exiting
+Process 3 exiting
+The value is 816921454521178229047296.000000
+Total of 301 seconds elapsed for process
+Process 0 sending 0.170828 to 1, tag 201 (4 processes in ring)
+Process 0 sent to 1
+Process 0 exiting
+Process 1 exiting
+Process 2 exiting
+Process 3 exiting
+The value is 816921454521178229047296.000000
+Total of 299 seconds elapsed for process
+Process 0 sending 0.170828 to 1, tag 201 (4 processes in ring)
+Process 0 sent to 1
+Process 0 exiting
+Process 1 exiting
+Process 2 exiting
+Process 3 exiting
+The value is 816921454521178229047296.000000
+Total of 300 seconds elapsed for process
+Third command done
