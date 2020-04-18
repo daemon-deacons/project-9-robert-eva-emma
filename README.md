@@ -38,4 +38,6 @@ three variables.
     
 
 ##3.Show the plot of average execution times and standard deviation from part 
+![Runtime boxplot](https://github.com/daemon-deacons/project-9-robert-eva-emma/blob/master/boxplotp3.png)
+
     ##3.a.Why do you think there is a difference in the execution times?
